@@ -25,7 +25,7 @@ sus ventajas
 - Nos habría gustado implementar el servicio BIND en modo chroot
 
 # Conclusiones
-- El proyecto nnos permitió ver de una manera más práctica el servidor DNS y el servicio BIND9, además de concretar nuestros conocimientos
+- El proyecto nos permitió ver de una manera más práctica el servidor DNS y el servicio BIND9, además de concretar nuestros conocimientos
 - Se logró desplegar un servidor DNS funcional en la nube, superando retos de configuración y validación
 - Aunque no se utilizó el modo chroot, se aprendió sobre su funcionalidad y ventajas como mejora de seguridad
 
