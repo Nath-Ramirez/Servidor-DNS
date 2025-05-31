@@ -1,3 +1,20 @@
+# Instancia EC2 AWS
+### Nombre, subred y direcciones, pública y privada
+
+![image](https://github.com/user-attachments/assets/9e299907-17ef-4189-ab6c-546c1615ef3b)
+
+### Subred publica de la VPC conectada a Internet GateWay.
+
+![image](https://github.com/user-attachments/assets/8eb72652-c746-4aaf-82fb-fa9c46c9c083)
+
+### Grupo de seguridad de la red con puertos habilitados
+
+![image](https://github.com/user-attachments/assets/9686689f-2f98-4fe8-92a1-923391f6e9b9)
+
+### Firewall
+
+![image](https://github.com/user-attachments/assets/a25aa861-8cc4-4d9c-ba7b-0fa1baa61114)
+
 # Servidor-DNS
 
 ### Configuración del archivo Options
