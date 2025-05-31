@@ -1,3 +1,6 @@
+# Link video con demostración
+### https://www.youtube.com/watch?v=nM9aUtA4CX0
+
 # Introducción
 Los servicios DNS son esenciales para el funcionamiento eficiente y seguro de las redes, por esta razón, muchas empresas desarrollan sus propios DNS. En este proyecto usamos los conceptos fundamentales de DNS mediante la instalación, configuración y validación de un servidor BIND en un entorno virtualizado
 
